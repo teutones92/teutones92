@@ -1,16 +1,34 @@
-### Hi there 👋
+# Welcome to My Portfolio 👋
 
-<!--
-**teutones92/teutones92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over 5 years of experience in crafting innovative solutions. I specialize in the Flutter framework and love merging creativity and efficiency to build exceptional cross-platform applications.
 
-Here are some ideas to get you started:
+## Featured Projects 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Project 1]
+
+[Brief description of Project 1]
+
+### [Project 2]
+
+[Brief description of Project 2]
+
+### [Project 3]
+
+[Brief description of Project 3]
+
+## Skills 🔧
+
+- Mobile app development with Flutter
+- User Interface (UI/UX) design
+- Integration of APIs and external services
+- Problem-solving and code optimization
+- Collaboration in agile teams
+
+## Contact 📬
+
+I'd love to connect with you! You can find me at:
+
+- [LinkedIn](#)
+- [Email](#)
+
+Thanks for visiting my repository! I hope you find my projects interesting.
