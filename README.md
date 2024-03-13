@@ -4,7 +4,7 @@ Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over
 
 ## Featured Projects 🚀
 
-### [Project 1]
+### [Habitify]
 
 [Brief description of Project 1]
 
@@ -28,7 +28,7 @@ Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over
 
 I'd love to connect with you! You can find me at:
 
-- [LinkedIn](#)
-- [Email](#)
+- [LinkedIn](#https://www.linkedin.com/in/teutondev/)
+- [Email](#teutones92@gmail.com)
 
 Thanks for visiting my repository! I hope you find my projects interesting.
