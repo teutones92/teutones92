@@ -4,17 +4,16 @@ Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over
 
 ## Featured Projects 🚀
 
-### [Project 1]
+### [Habitify](#)
 
-[Brief description of Project 1]
+Habitify is a powerful habit-building application designed to help users establish and track positive daily routines. Utilizing a user-friendly interface, Habitify enables individuals to set and monitor their daily goals, receive personalized reminders, and visualize their progress over time. This project was built using Flutter.
 
-### [Project 2]
+### [Securitron](#)
 
-[Brief description of Project 2]
+Securitron is a secure offline password management application developed using the Flutter framework. Employing advanced encryption techniques, it ensures robust protection for user passwords and data without relying on external or internal internet services.
 
-### [Project 3]
 
-[Brief description of Project 3]
+## Languaje
 
 ## Skills 🔧
 
@@ -23,6 +22,14 @@ Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over
 - Integration of APIs and external services
 - Problem-solving and code optimization
 - Collaboration in agile teams
+
+- **Programming Languages:**
+  - Dart (Flutter)
+  - Angular
+  - TypeScript
+  - Python
+  - JavaScrypt
+
 
 ## Contact 📬
 
