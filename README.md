@@ -18,6 +18,7 @@ Securitron is a secure offline password management application developed using t
 
 - **Programming Languages:**
   - Dart (Flutter)
+  - Ionic
   - Angular
   - TypeScript
   - Python
