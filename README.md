@@ -12,7 +12,10 @@ Habitify is a powerful habit-building application designed to help users establi
 
 Securitron is a secure offline password management application developed using the Flutter framework. Employing advanced encryption techniques, it ensures robust protection for user passwords and data without relying on external or internal internet services.
 
-## Languaje
+## Language
+  - Spanish
+  - English
+  - French
 
 ## Skills 🔧
 
