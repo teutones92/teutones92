@@ -23,6 +23,7 @@ Securitron is a secure offline password management application developed using t
   - TypeScript
   - Python
   - JavaScrypt
+  - Golang(GO)
 
 - Mobile app development with Flutter
 - User Interface (UI/UX) design
