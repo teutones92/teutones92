@@ -6,7 +6,7 @@ Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over
 
 ### [GoalTrack](#)
 
-Habitify is a powerful habit-building application designed to help users establish and track positive daily routines. Utilizing a user-friendly interface, Habitify enables individuals to set and monitor their daily goals, receive personalized reminders, and visualize their progress over time. This project was built using Flutter.
+GoalTrack is a powerful habit-building application designed to help users establish and track positive daily routines. Utilizing a user-friendly interface, Habitify enables individuals to set and monitor their daily goals, receive personalized reminders, and visualize their progress over time. This project was built using Flutter.
 
 ### [Securitron](https://play.google.com/store/apps/details?id=com.teutondev.securitron&pcampaignid=web_share)
 
