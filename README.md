@@ -4,9 +4,9 @@ Hello! I'm Carlos Diaz, a passionate mobile app and software developer with over
 
 ## Featured Projects 🚀
 
-### [GoalTrack](#)
+### [Project Sync](https://github.com/teutones92/project_sync)
 
-GoalTrack is a powerful habit-building application designed to help users establish and track positive daily routines. Utilizing a user-friendly interface, GoalTrack enables individuals to set and monitor their daily goals, receive personalized reminders, and visualize their progress over time. This project was built using Flutter.
+The Project Management System is a comprehensive application designed to facilitate the organization and administration of projects, tasks, users, and roles. With a frontend developed in Flutter and a backend in Go, the system offers robust features such as task assignment, comment management, and a secure authentication system. It uses PostgreSQL for database management, ensuring optimal performance and scalability. Ideal for teams seeking an efficient solution for collaborative project management.
 
 ### [Securitron](https://play.google.com/store/apps/details?id=com.teutondev.securitron&pcampaignid=web_share)
 
