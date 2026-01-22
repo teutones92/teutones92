@@ -9,7 +9,7 @@ I'm passionate about **clean architecture**, **cross-platform development**, and
 
 ## 🚀 Featured Apps
 
-### ⚾ [Sierra Pitching Academy](https://play.google.com/store/apps/details?id=com.teutondev.spa1&utm_source=na_Med))
+### ⚾ [Sierra Pitching Academy](https://play.google.com/store/apps/details?id=com.teutondev.spa1&utm_source=na_Med)
 
 A **Pitcher Academy** built entirely with **Flutter**.
 Ultimate baseball training app for pitchers.
