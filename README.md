@@ -14,7 +14,7 @@ I'm passionate about **clean architecture**, **cross-platform development**, and
 A **Pitcher Academy** built entirely with **Flutter**.
 Ultimate baseball training app for pitchers.
 
-> **Stack:** Flutter · Dart · Local Storage · Encryption
+> **Stack:** Flutter · Firebase · Cloud Functions · Stripe · Calendar
 
 ---
 
