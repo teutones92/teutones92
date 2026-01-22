@@ -11,8 +11,8 @@ I'm passionate about **clean architecture**, **cross-platform development**, and
 
 ### ⚾ [Sierra Pitching Academy]([https://play.google.com/store/apps/details?id=com.teutondev.securitron](https://play.google.com/store/apps/details?id=com.teutondev.spa1&utm_source=na_Med))
 
-A **secure offline password manager** built entirely with **Flutter**.
-It encrypts user data locally using **AES-256**, ensuring complete privacy — no servers, no internet, just pure security.
+A **Pitcher Academy** built entirely with **Flutter**.
+Ultimate baseball training app for pitchers.
 
 > **Stack:** Flutter · Dart · Local Storage · Encryption
 
